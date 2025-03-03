@@ -1,2 +1,2 @@
 # Split-it
-Repository with the Split.it project
+Repository with the Split.it project.
